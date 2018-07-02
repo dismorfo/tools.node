@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="tools.node"
-       name="node"
-       version="4.1.1"
-       provider-name="none">
+<addon id="tools.node" name="node" version="4.1.1" provider-name="none">
   <requires>
     <import addon="os.openelec.tv" version="4.0"/>
     <import addon="xbmc.python" version="2.1.0"/>
